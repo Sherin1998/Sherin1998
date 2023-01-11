@@ -35,9 +35,7 @@
 #### You can also find me on: 
 
 [<img align="left" alt="entbappy | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="entbappy | Twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
 [<img align="left" alt="entbappy | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
-[<img align="left" alt="entbappy | YouTube" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />][YouTube]
 [<img align="left" alt="entbappy | LeetCode" width="30px" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" />][LeetCode]
                                                                                                                                                                        
 
@@ -46,20 +44,12 @@
 <hr>
 
 [linkedin]: https://www.linkedin.com/in/boktiarahmed73/
-[twitter]: https://twitter.com/bappy913873
+
 [Instagram]: https://www.instagram.com/entbappy/
-[YouTube]: https://www.youtube.com/dswithbappy
-[LeetCode]: https://leetcode.com/entbappy/
-
-## 💰 You can support me if you liked my work by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/dswithbappy)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=entbappy&label=Profile%20views&color=0e75b6&style=flat" alt="entbappy" /> </p>
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=entbappy" alt="entbappy" /></a> </p> -->
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=entbappy&show_icons=true&locale=en&layout=compact" alt="entbappy" /></p>
+
+
 
 
 
