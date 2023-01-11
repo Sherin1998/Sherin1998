@@ -10,7 +10,7 @@
 * Computer vision 
 * Data Analysis
 * Problem Solving
-*
+* Teamwork
 
 
 
