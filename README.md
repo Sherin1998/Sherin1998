@@ -20,8 +20,8 @@
 
 ### My Hobbies and interests:
 * Traveling
-* Singing
-* Coding
+* Volunteering
+* Photography
 
 
 
