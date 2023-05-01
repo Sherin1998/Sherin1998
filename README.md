@@ -45,7 +45,7 @@
 
 [linkedin]: https://www.linkedin.com/in/boktiarahmed73/
 
-[Instagram]: https://www.instagram.com/entbappy/
+
 
 
 
